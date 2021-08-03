@@ -1,0 +1,13 @@
+C:\DEVBUILD\lab41\lab41\obj\Debug\netcoreapp3.1\lab41.csproj.AssemblyReference.cache
+C:\DEVBUILD\lab41\lab41\obj\Debug\netcoreapp3.1\lab41.AssemblyInfoInputs.cache
+C:\DEVBUILD\lab41\lab41\obj\Debug\netcoreapp3.1\lab41.AssemblyInfo.cs
+C:\DEVBUILD\lab41\lab41\obj\Debug\netcoreapp3.1\lab41.csproj.CoreCompileInputs.cache
+C:\DEVBUILD\lab41\lab41\bin\Debug\netcoreapp3.1\lab41.exe
+C:\DEVBUILD\lab41\lab41\bin\Debug\netcoreapp3.1\lab41.deps.json
+C:\DEVBUILD\lab41\lab41\bin\Debug\netcoreapp3.1\lab41.runtimeconfig.json
+C:\DEVBUILD\lab41\lab41\bin\Debug\netcoreapp3.1\lab41.runtimeconfig.dev.json
+C:\DEVBUILD\lab41\lab41\bin\Debug\netcoreapp3.1\lab41.dll
+C:\DEVBUILD\lab41\lab41\bin\Debug\netcoreapp3.1\lab41.pdb
+C:\DEVBUILD\lab41\lab41\obj\Debug\netcoreapp3.1\lab41.dll
+C:\DEVBUILD\lab41\lab41\obj\Debug\netcoreapp3.1\lab41.pdb
+C:\DEVBUILD\lab41\lab41\obj\Debug\netcoreapp3.1\lab41.genruntimeconfig.cache
